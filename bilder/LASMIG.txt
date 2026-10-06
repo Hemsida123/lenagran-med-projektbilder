@@ -1,0 +1,16 @@
+Bilder hämtade från Lena Gran Designs officiella webbplats 2026-10-05.
+
+Sommarhus i Höllviken: 45 projektbilder inklusive huvudbild.
+https://www.lenagran.com/inredningshjalp-malmo-portfolio/skandinavisk-sommarhus-i-hollviken
+Skandinavisk coastal Airbnb i Falsterbo: 35 projektbilder inklusive huvudbild.
+https://www.lenagran.com/inredningshjalp-malmo-portfolio/skandinavisk-coastal-airbnb-falsterbo
+Filmstudio för Rikatillsammans: 16 projektbilder inklusive huvudbild.
+https://www.lenagran.com/inredningshjalp-malmo-portfolio/filming-studio
+Strandhus i Falsterbo: 12 projektbilder inklusive huvudbild.
+https://www.lenagran.com/inredningshjalp-malmo-portfolio/strandhus-airbnb-design-i-falsterbo
+Barnrum för två flickor: 16 projektbilder inklusive huvudbild.
+https://www.lenagran.com/inredningshjalp-malmo-portfolio/barnrum-for-tva-flickor
+Garderob i Limhamn: 12 projektbilder inklusive huvudbild.
+https://www.lenagran.com/inredningshjalp-malmo-portfolio/garderob-i-limhamn
+
+Alla bilder ligger lokalt i denna mapp och följer med webbplatsen. Huvudbilderna matchar projektkorten och finns även i respektive projektgalleri. Fullständig källförteckning: bildkallor.json.
